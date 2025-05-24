@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1735037911 source:e:\shits\ovid fac\ovid. info\facultate\an2\logicamatematicasicomputationala\lmc_lab_03_var1\lmc_lab_03_var03\main.cpp
+	<iostream>
+	<sstream>
+	<set>
+	<string>
+	<iterator>
+
